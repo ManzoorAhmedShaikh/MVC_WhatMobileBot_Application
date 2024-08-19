@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/Window.PNG" alt="MVC_WhatMobileBot_Application">
+  <img src="Assets/Window.png" alt="MVC_WhatMobileBot_Application">
 </div>
 
 # MVC_WhatMobileBot_Application
