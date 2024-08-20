@@ -77,6 +77,6 @@ class Model:
 
         else:
             # Export the styled DataFrame to an Excel file
-            styled_df.to_excel(FileName + ".xlsx", engine = 'openpyxl',index=False, header=False)
+            styled_df.to_excel(file_path, engine = 'openpyxl',index=False, header=False)
 
             return "FILE SAVED"
